@@ -17,10 +17,11 @@ const vikitaotiz = {
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikitaotiz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikitaotiz)](https://github.com/vikitaotiz/github-readme-stats)
-[![Victor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikitaotiz)](https://github.com/vikitaotiz/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vikitaotiz&repo=github-readme-stats)](https://github.com/vikitaotiz/github-readme-stats)
+
 
 ## Currently learning:
-<ul>
+<ol>
   <li>HTML</li>
   <li>CSS</li>
   <li>Ruby</li>
@@ -29,7 +30,7 @@ const vikitaotiz = {
   <li>React</li>
   <li>Redux</li>
   <li>SQL</li>
-</ul>
+</ol>
 
 ## Reach me out!
 
