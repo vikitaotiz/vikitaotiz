@@ -15,7 +15,7 @@ const vikitaotiz = {
 }
 ```
 
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikitaotiz&show_icons=true)
+![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikitaotiz&show_icons=true&theme=radical)
 
 ## Currently learning:
 <ul>
