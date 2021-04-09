@@ -7,7 +7,7 @@
 ```javascript
 const vikitaotiz = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
-  pronouns: ["he", "he"],
+  pronouns: ["he"],
   code: [JavaScript,  HTML/CSS, Bootstrap, Vuejs, PHP/Laravel],
   askMeAbout: [Cars, My Country Kenya, tech trends, DIY projects],
   challenge: "I also learning flutter as a side project",
