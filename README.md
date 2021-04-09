@@ -27,7 +27,7 @@ const vikitaotiz = {
 
 ## Reach me out!
 
-<a href="https://www.linkedin.com/in/victor-otieno-22ba7773/"><img align="center" src="img/linkedin-48x48.png"></a>
-<a href="https://twitter.com/victoro29641869"><img align="center" src="img/twitter-48x48.png"></a>
-<a href="mailto:victorotieno598@gmail.com"><img align="center" height="65px" width="48px" src="img/gmail-48x48.png"></a>
+<a href="https://www.linkedin.com/in/victor-otieno-22ba7773/"><img align="center" src="https://freepngimg.com/download/linkedin/69408-business-icons-symbol-linkedin-computer-logo-icon.png"></a>
+<a href="https://twitter.com/victoro29641869"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/logo+twitter+twitter+logo+icon-1320167831451644641.png"></a>
+<a href="mailto:victorotieno598@gmail.com"><img align="center" height="65px" width="48px" src="https://www.freepngimg.com/download/gmail/68253-icons-by-computer-inbox-android-email-gmail.png"></a>
 
