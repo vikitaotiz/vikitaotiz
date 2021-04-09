@@ -16,8 +16,7 @@ const vikitaotiz = {
 ```
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikitaotiz&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikitaotiz)](https://github.com/vikitaotiz/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vikitaotiz&repo=github-readme-stats)](https://github.com/vikitaotiz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikitaotiz&theme=radical)](https://github.com/vikitaotiz/github-readme-stats)
 
 
 ## Currently learning:
