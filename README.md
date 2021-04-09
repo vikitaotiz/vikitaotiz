@@ -1,5 +1,7 @@
 ![VICTOR OTIENO (AKA VIKITAOTIZ)](https://user-images.githubusercontent.com/42869046/114180949-95cf8680-9949-11eb-84a7-80ce420eaa25.png)
 
+---
+
 <p><em>Currently studying at Microverse to become full-stack web developer</p>
 
 ### <img src="https://lh3.googleusercontent.com/proxy/xg119N9vDTabWvtb8vqn4XgtMCtMvMqITgXDFpufnHbzIjGw87sasamQaNFOCKa4VCDiJt08IyEV3a4rZj7P1gdeC6ktBx0u3Q" width="50"> A little more about me...  
