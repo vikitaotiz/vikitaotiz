@@ -1,4 +1,4 @@
-![VICTOR OTIENO (AKA VIKITAOTIZ)](https://user-images.githubusercontent.com/42869046/114179236-661f7f00-9947-11eb-91ec-bd938a3b503b.png)
+![VICTOR OTIENO (AKA VIKITAOTIZ)](https://user-images.githubusercontent.com/42869046/114180949-95cf8680-9949-11eb-84a7-80ce420eaa25.png)
 
 <p><em>Currently studying at Microverse to become full-stack web developer</p>
 
