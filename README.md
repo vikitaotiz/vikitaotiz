@@ -1,6 +1,6 @@
 <p><em>Currently studying at Microverse to become full-stack web developer</p>
 
-### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
+### <img src="https://lh3.googleusercontent.com/proxy/xg119N9vDTabWvtb8vqn4XgtMCtMvMqITgXDFpufnHbzIjGw87sasamQaNFOCKa4VCDiJt08IyEV3a4rZj7P1gdeC6ktBx0u3Q" width="50"> A little more about me...  
 
 ```javascript
 const vikitaotiz = {
