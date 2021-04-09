@@ -14,10 +14,12 @@ const vikitaotiz = {
   funFacts: ['I have 2+ years of experience in php laravel', 'I have also worked with vuejs, vuetify and nuxtjs']
 }
 ```
+---
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikitaotiz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikitaotiz&theme=radical)](https://github.com/vikitaotiz/github-readme-stats)
 
+---
 
 ## Currently learning:
 <ol>
