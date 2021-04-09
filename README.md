@@ -1,4 +1,4 @@
-![VICTOR OTIENO (AKA VIKITAOTIZ)](https://user-images.githubusercontent.com/42869046/114173584-1093a400-9940-11eb-92b5-e202fa59f8b8.png)
+![VICTOR OTIENO (AKA VIKITAOTIZ)](https://user-images.githubusercontent.com/42869046/114179236-661f7f00-9947-11eb-91ec-bd938a3b503b.png)
 
 <p><em>Currently studying at Microverse to become full-stack web developer</p>
 
@@ -17,6 +17,7 @@ const vikitaotiz = {
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikitaotiz&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikitaotiz)](https://github.com/vikitaotiz/github-readme-stats)
+[![Victor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vikitaotiz)](https://github.com/vikitaotiz/github-readme-stats)
 
 ## Currently learning:
 <ul>
