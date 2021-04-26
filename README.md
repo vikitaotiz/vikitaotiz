@@ -37,7 +37,11 @@ const vikitaotiz = {
 
 ## Reach me out!
 
-<a href="https://www.linkedin.com/in/victor-otieno-22ba7773/"><img align="center" height="50px" width="50px" src="https://freepngimg.com/download/linkedin/69408-business-icons-symbol-linkedin-computer-logo-icon.png"></a>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-otieno-22ba7773/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victoro29641869)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto:victorotieno598@gmail.com)
+
+<!-- <a href="https://www.linkedin.com/in/victor-otieno-22ba7773/"><img align="center" height="50px" width="50px" src="https://freepngimg.com/download/linkedin/69408-business-icons-symbol-linkedin-computer-logo-icon.png"></a>
 <a href="https://twitter.com/victoro29641869"><img align="center" height="50px" width="50px" src="https://icons-for-free.com/iconfiles/png/512/logo+twitter+twitter+logo+icon-1320167831451644641.png"></a>
-<a href="mailto:victorotieno598@gmail.com"><img align="center" height="50px" width="50px" src="https://www.freepngimg.com/download/gmail/68253-icons-by-computer-inbox-android-email-gmail.png"></a>
+<a href="mailto:victorotieno598@gmail.com"><img align="center" height="50px" width="50px" src="https://www.freepngimg.com/download/gmail/68253-icons-by-computer-inbox-android-email-gmail.png"></a> -->
 
