@@ -42,5 +42,4 @@ const vikitaotiz = {
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=victorotieno598@gmail.com)
 
 
-<!--
 **vikitaotiz/vikitaotiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
