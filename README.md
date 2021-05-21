@@ -10,7 +10,7 @@
 const vikitaotiz = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he"],
-  code: [JavaScript,  HTML/CSS, Bootstrap, Vuejs, PHP/Laravel],
+  code: [JavaScript,  HTML/CSS, Bootstrap, Vuejs, PHP/Laravel, Ruby/Rails],
   askMeAbout: [Cars, My Country Kenya, tech trends, DIY projects],
   challenge: "I also learning flutter as a side project",
   funFacts: ['I have 2+ years of experience in php laravel', 'I have also worked with vuejs, vuetify and nuxtjs']
