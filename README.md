@@ -10,7 +10,7 @@
 const vikitaotiz = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he"],
-  code: [JavaScript,  HTML/CSS, Bootstrap, Vuejs, PHP/Laravel, Ruby/Rails],
+  code: [JavaScript,  HTML/CSS, Bootstrap, Vuejs, PHP/Laravel, Ruby/Rails, Reactjs],
   askMeAbout: [Cars, My Country Kenya, tech trends, DIY projects],
   challenge: "I also learning flutter as a side project",
   funFacts: ['I have 2+ years of experience in php laravel', 'I have also worked with vuejs, vuetify and nuxtjs']
@@ -37,7 +37,7 @@ const vikitaotiz = {
 
 ## Reach out to me!
 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-otieno-22ba7773/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-otieno-oluoch/)
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/victoro29641869)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&source=mailto&to=victorotieno598@gmail.com)
 
